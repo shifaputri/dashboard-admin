@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Dashboard Overview</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -14,7 +15,7 @@
         <a href="index.php" class="active">🏠 Dashboard</a>
         <a href="produk.php">📦 Manajemen Produk</a>
         <a href="pesanan.php">🧾 Pesanan</a>
-        <a href="galeri.php">🖼️ Galeri</a>
+        <a href="galeri.php"><i class="bi bi-image-alt"></i> Galeri</a>
       </nav>
       <a href="#" class="logout">↩️ Keluar</a>
     </aside>

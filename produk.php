@@ -17,7 +17,7 @@
         <a href="index.php">📊 Dashboard</a>
         <a href="produk.php" class="active">👜 Manajemen Produk</a>
         <a href="pesanan.php">📋 Pesanan</a>
-        <a href="galeri.php">🖼️ Galeri</a>
+        <a href="galeri.php"><i class="bi bi-image-alt"></i></a>
       </nav>
     </div>
     <a href="#" id="logout">⏏ Keluar</a>
